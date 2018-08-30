@@ -1,2 +1,2 @@
-# homey.github.io
+# http://homey.github.io
 Homey
